@@ -24,6 +24,7 @@ A user-friendly, Qt-based desktop calendar application with weekly and monthly v
 ---
 
 
+![image](https://github.com/user-attachments/assets/7a0a2346-859a-45a8-8a9c-48cdac9b6832)
 
 
 ## Installation Guide
